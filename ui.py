@@ -1,4 +1,4 @@
-#caculator_A
+#caculator_B
 from PyQt5.QtWidgets import (QApplication,QWidget,QPushButton,QVBoxLayout,
                              QMessageBox, QPlainTextEdit, QHBoxLayout,
                              QLineEdit, QComboBox)
